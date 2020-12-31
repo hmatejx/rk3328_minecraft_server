@@ -3,7 +3,7 @@
 
 
 <p float="left" align="center">
-<img src="img\minecraft.png" alt="minecraft" style="zoom:66%;" />
+<img src="img\Minecraft.png" alt="minecraft" style="zoom:66%;" />
 <span style='font-size: 48pt;'>&nbsp;+&nbsp;</span>
 <img src="img\leelbox.jpg" alt="Q4S" style="zoom:10%;" />
 <span style='font-size: 48pt;'>&nbsp;=&nbsp;✓</span>
