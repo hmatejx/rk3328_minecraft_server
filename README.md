@@ -84,7 +84,7 @@ First of all, download the armbian image for the RK3288-based TV box.  [Here](ht
 
 I've downloaded the Ubuntu Focal Fossa flavor, highlighted in the image below.
 
-![armbian](img\armbian.png)
+![armbian](img/armbian.png)
 
 
 
