@@ -297,3 +297,10 @@ echo "If you want to attach to the above screen session, type 'screen -R Minecra
 
 
 *Happy crafting!*
+
+
+
+<p float="left" align="center">
+    <img src="img\in_operation.jpg" alt="Leelbox Q4 S in operation" style="zoom:33%;" />
+</p>
+
