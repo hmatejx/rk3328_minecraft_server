@@ -148,7 +148,7 @@ Navigate to the SD card you just flashed, it should contain 2 partitions (if you
 
 Safely remove the SD card from your PC (unmount, eject, etc.) and put it into the SD card slot of your box, which should be waiting powered off. 
 
-If all goes well, your box should boot from the SD card immediately once given power! After I saw the ETH light on the switch turning on,  I went to the web interface of our home router to check the DHCP server log to find out the IP of the box.
+If all goes well, your box should boot from the SD card immediately once given power! After I saw the ETH light on the switch turning on,  I went to the web interface of our home router to check the DHCP server log to find out the IP of the box. You can also use a scanner such [Angry IP Scanner](https://angryip.org/) or [NMAP](https://nmap.org/) to find the box.
 
 *Things to consider in case the box is not booting:*
 
