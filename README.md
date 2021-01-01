@@ -279,7 +279,7 @@ I've logged in as the 'minecraft' user and created a `server` folder in the home
 ln -sf paper-1.16.4-362.jar paper.jar
 ```
 
-Next, I've Googled to se which Java flags to use to get the most out of it. I've found [this nice page](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/) documenting the flags which are recommended and battle-tested by the enthusiasts. As my box has 4 GB of memory, I've reserved 3GB for Minecraft via `-Xms3G -Xmx3G` flags. Obviously, if your box has less or more memory, you will need to modify those flags accordingly (always leave at least 100-200MB free for the OS).
+Next, I've Googled to see which Java flags to use to get the most out of it. I've found [this nice page](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/) documenting the flags which are recommended and battle-tested by the enthusiasts. As my box has 4 GB of memory, I've reserved 3GB for Minecraft via `-Xms3G -Xmx3G` flags. Obviously, if your box has less or more memory, you will need to modify those flags accordingly (always leave at least 100-200MB free for the OS).
 
 Lastly, I run Minecraft via screen so it doesn't exit when I logout, and I can easily reattach to it afterwards. The content of my `minecraft.sh` script, also located in the `server` folder, is shown below.
 
